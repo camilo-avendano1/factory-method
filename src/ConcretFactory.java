@@ -1,7 +1,7 @@
-public class ConcretFactory extends Abstract_factory {
+public class ConcretFactory extends AbstractFactory {
 
     @Override
-    public IPay FactoryPago(Canal_pago canaldepago) {
+    public IPay FactoryPago(CanalPago canaldepago) {
         switch (canaldepago){
             case pse:
                 return  new PSE();

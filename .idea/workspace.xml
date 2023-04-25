@@ -5,24 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="879601e2-cdaa-4f5a-bab1-29dde98f4a6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-method.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Abstract_factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bancolombia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Canal_pago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConcretFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Otro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PSE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Wompi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abstract_factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Canal_pago.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CanalPago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConcretFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConcretFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Otro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Otro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +50,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/estudiantes/camilo.avendano1/IdeaProjects/factory-method"
   }
 }]]></component>
   <component name="RunManager">

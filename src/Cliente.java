@@ -11,20 +11,20 @@ public class Cliente {
             opc = rnd.nextInt(4);
             switch (opc) {
                 case 0:
-                    pago = pagoConcreto.FactoryPago(Canal_pago.pse);
+                    pago = pagoConcreto.FactoryPago(CanalPago.pse);
                     break;
                 case 1:
-                    pago = pagoConcreto.FactoryPago(Canal_pago.wompi);
+                    pago = pagoConcreto.FactoryPago(CanalPago.wompi);
                     break;
                 case 2:
-                    pago = pagoConcreto.FactoryPago(Canal_pago.bancolombia);
+                    pago = pagoConcreto.FactoryPago(CanalPago.bancolombia);
                     break;
                 case 3:
-                    pago = pagoConcreto.FactoryPago(Canal_pago.otro);
+                    pago = pagoConcreto.FactoryPago(CanalPago.otro);
                     break;
             }
-        pago.pagar();
-        Thread.sleep(1000);
+            pago.pagar();
+            Thread.sleep(1000);
         }
     }
 }
